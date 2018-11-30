@@ -89,7 +89,8 @@
     }
 
         #header .icons a:hover {
-            color: #fff;
+            /* color: #fff; */
+            color: #2f968d;
         }
 
 #logo {
@@ -167,7 +168,7 @@ margin-bottom: 0;
         }
 
             #nav ul li a.active span:before {
-                color: #e27689;
+                color: #2f968d;
             }
 
 /* Footer*/

@@ -16,8 +16,6 @@
 **Estimate of time needed to complete**: 2 hours
 
 **Start time**: 5:30PM
-**Break Start**: 
-**Break Finish**: 
-**Finish time**: 
+**Finish time**: 7:50PM
 
-**Actual time needed to complete**: 
+**Actual time needed to complete**: 2 hours, 20 minutes 
