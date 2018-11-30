@@ -13,9 +13,9 @@
 
 ## Feature #2: Modify the Contents
 
-**Estimate of time needed to complete**: 
+**Estimate of time needed to complete**: 2 hours
 
-**Start time**: 
+**Start time**: 5:30PM
 **Break Start**: 
 **Break Finish**: 
 **Finish time**: 

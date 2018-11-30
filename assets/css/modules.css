@@ -39,7 +39,7 @@
 
     #main > section.one {
         background-color: #81918E;
-        background-image: url("../../images/banner.jpg");
+        background-image: url("../../images/banner.png");
     }
 
     #main > section.two {
@@ -431,6 +431,7 @@ button,
 .item {
     box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
     margin-bottom: 40px;
+    border-radius: 50px;
 }
 
     .item header {
@@ -438,12 +439,18 @@ button,
         margin: 0;
         padding: 1em 0 1em 0;
         font-size: 0.8em;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
     }
 
         .item header h3 {
             font-size: 1em;
         }
 
+    .item img {
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
 /* Icons */
 
 .icon {
@@ -465,6 +472,13 @@ button,
     .icon > .label {
         display: none;
     }
+
+/* Intro */
+#intro-heading {
+    background-color: rgba(53, 52, 52, 0.692);
+    border-radius: 15px;
+}
+
 
 /* Narrow */
 
