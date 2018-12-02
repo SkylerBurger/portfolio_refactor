@@ -26,12 +26,14 @@
 
 ### Feature #1: Add Functionality
 
-**Estimate of time needed to complete**: 1 hour
+**Estimate of time needed to complete**: 2 hour
 
 **Start time**: 2:20PM
-**Finish time**:
+**Finish time**: 5:20PM
 
-**Actual time needed to complete**:
+**Actual time needed to complete**: 3 hours
+**Note**: I didn't change all of the assets to CDN links. I was able to implement the fontawesome and Jquery CDN, but the links for other assets were not trustworthy and began breaking my site. I'd like to use this site in the future so I didn't keep the bad links.
+
 
 ### Feature #2: 
 
