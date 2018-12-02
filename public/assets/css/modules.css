@@ -39,7 +39,22 @@
 
     #main > section.one {
         background-color: #81918E;
-        background-image: url("../../images/banner.png");
+    }
+    
+    .carousel1 {
+        background-image: url("../../images/banner1.png") !important;
+    }
+
+    .carousel2 {
+        background-image: url("../../images/banner2.png") !important;
+    }
+
+    .carousel3 {
+        background-image: url("../../images/banner3.png") !important;
+    }
+
+    .carousel4 {
+        background-image: url("../../images/banner4.png") !important;
     }
 
     #main > section.two {
@@ -477,7 +492,7 @@ button,
 
 /* Narrow */
 
-	@media screen and (min-width: 961px) and (max-width: 1320px) {
+	@media screen and (min-width: 736px) and (max-width: 1320px) {
 
 		/* Icons */
 
